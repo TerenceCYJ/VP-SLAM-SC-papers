@@ -10,3 +10,6 @@ Visual Positioning &amp; Spatial Cognition 论文统计与分析
 2017
 - Semantics-aware Visual Localization under Challenging Perceptual Conditions [[Paper](http://pdfs.semanticscholar.org/75da/1f7edbd881b46bb9aea64c5ab467e8081a41.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Semantics-aware%20Visual%20Localization%20under%20Challenging%20Perceptual%20Conditions.md)]
     - Tayyab Naseer, Gabriel L. Oliveira, Thomas Brox, Wolfram Burgard, ICRA, 2017
+
+- Are Large-Scale 3D Models Really Necessary for Accurate Visual Localization?[Paper](http://people.inf.ethz.ch/sattlert/publications/Sattler2017CVPR.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Are%20Large-Scale%203D%20Models%20Really%20Necessary%20for%20Accurate%20Visual%20Localization%3F.md)]
+    - Torsten Sattler, Akihiko Torii, Josef Sivic, Marc Pollefeys, Hajime Taira, Masatoshi Okutomi, Tomas Pajdla, CVPR，2017
