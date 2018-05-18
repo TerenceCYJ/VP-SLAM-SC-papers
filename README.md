@@ -13,3 +13,7 @@ Visual Positioning &amp; Spatial Cognition 论文统计与分析
 
 - Are Large-Scale 3D Models Really Necessary for Accurate Visual Localization?[Paper](http://people.inf.ethz.ch/sattlert/publications/Sattler2017CVPR.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Are%20Large-Scale%203D%20Models%20Really%20Necessary%20for%20Accurate%20Visual%20Localization%3F.md)]
     - Torsten Sattler, Akihiko Torii, Josef Sivic, Marc Pollefeys, Hajime Taira, Masatoshi Okutomi, Tomas Pajdla, CVPR，2017
+
+2015
+- PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization[Paper](https://www.researchgate.net/publication/277334078_Convolutional_networks_for_real-time_6-DOF_camera_relocalization)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/PoseNet:%20A%20Convolutional%20Network%20for%20Real-Time%206-DOF%20Camera%20Relocalization.md)]
+    - Alex Kendall， Matthew Grimes，Roberto Cipolla， University of Cambridge， ICCV, 2015
