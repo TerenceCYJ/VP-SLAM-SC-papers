@@ -15,8 +15,14 @@ Visual Positioning &amp; Spatial Cognition 论文统计与分析
     - Torsten Sattler, Akihiko Torii, Josef Sivic, Marc Pollefeys, Hajime Taira, Masatoshi Okutomi, Tomas Pajdla, CVPR，2017
 
 - Image-based localization using LSTMs for structured feature correlation[[Paper](https://www.researchgate.net/publication/322060007_Image-Based_Localization_Using_LSTMs_for_Structured_Feature_Correlation)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Image-based%20localization%20using%20LSTMs%20for%20structured%20feature%20correlation.md)]
-    - F. Walch， C. Hazirbas， L. Leal-Taixé， T. Sattler， S. Hilsenbeck， D. Cremers ，ICCV, 2017.
+    - F. Walch， C. Hazirbas， L. Leal-Taixé， T. Sattler， S. Hilsenbeck， D. Cremers ，ICCV, 2017
     
 2015
 - PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization[[Paper](https://www.researchgate.net/publication/277334078_Convolutional_networks_for_real-time_6-DOF_camera_relocalization)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/PoseNet:%20A%20Convolutional%20Network%20for%20Real-Time%206-DOF%20Camera%20Relocalization.md)]
     - Alex Kendall， Matthew Grimes，Roberto Cipolla， University of Cambridge， ICCV, 2015
+
+
+### Image Retrieval
+2016
+- Deep Image Retrieval: Learning global representations for image search[[Paper](http://pdfs.semanticscholar.org/c506/30e485d3c7785ea9e1f3bff35ea00e926a56.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Deep%20Image%20Retrieval:%20Learning%20global%20representations%20for%20image%20search.md)]
+    - Albert Gordo, Jon Almazán, Jerome Revaud, and Diane Larlus, CVPR 2016
