@@ -5,7 +5,7 @@ Visual Positioning &amp; Spatial Cognition 论文统计与分析
 2018
 - Semantic Visual Localization [[Paper](http://xueshu.baidu.com/s?wd=paperuri%3A%284cc9c10694738ed89cdaa4ffef8bdb87%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1712.05773&ie=utf-8&sc_us=10644666678547600538)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Semantic%20Visual%20Localization.md)]
     - Johannes L. Schonberger, Marc Pollefeys, Andreas Geiger, Torsten Sattler, CVPR, 2018
-- MapNet: Geometry-Aware Learning of Maps for Camera Localization [[Paper](https://arxiv.org/abs/1712.03342)]
+- MapNet: Geometry-Aware Learning of Maps for Camera Localization [[Paper](https://arxiv.org/abs/1712.03342)] [[Code](https://github.com/NVlabs/geomapnet)]
     - S Brahmbhatt， J Gu， K Kim， J Hays， J Kautz, CVPR, 2018
 - CVM-Net: Cross-View Matching Network for Image-Based Ground-to-Aerial Geo-Localization [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0809.pdf)]
     - Sixing Hu, Mengdan Feng, Rang M. H Nguyen, Gim Hee Lee,  CVPR, 2018
