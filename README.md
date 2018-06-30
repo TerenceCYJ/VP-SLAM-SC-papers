@@ -7,7 +7,7 @@ Visual Positioning &amp; Spatial Cognition 论文统计与分析
     - Johannes L. Schonberger, Marc Pollefeys, Andreas Geiger, Torsten Sattler, CVPR, 2018
 - MapNet: Geometry-Aware Learning of Maps for Camera Localization [[Paper](https://arxiv.org/abs/1712.03342)] [[Code](https://github.com/NVlabs/geomapnet)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Geometry-Aware%20Learning%20of%20Maps%20for%20Camera%20Localization.md)] [[Project site](http://research.nvidia.com/publication/2018-06_Geometry-Aware-Learning-of)]
     - S Brahmbhatt， J Gu， K Kim， J Hays， J Kautz, CVPR, 2018
-- CVM-Net: Cross-View Matching Network for Image-Based Ground-to-Aerial Geo-Localization [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0809.pdf)]
+- CVM-Net: Cross-View Matching Network for Image-Based Ground-to-Aerial Geo-Localization [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0809.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/CVM-Net:%20Cross-View%20Matching%20Network%20for%20Image-Based%20Ground-to-Aerial%20Geo-Localization.md)]
     - Sixing Hu, Mengdan Feng, Rang M. H Nguyen, Gim Hee Lee,  CVPR, 2018
 - Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf)]
     - Torsten Sattler, Will Maddern, Carl Toft, Akihiko Torii, Lars Hammarstrand, Erik Stenborg, Daniel Safari, Masatoshi Okutomi, Marc Pollefeys, Josef Sivic, Fredrik Kahl, Tomas Pajdla, CVPR, 2018
