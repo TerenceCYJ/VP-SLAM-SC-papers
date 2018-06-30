@@ -1,5 +1,5 @@
 # VP-SC-papers
-Visual Positioning &amp; Spatial Cognition 论文统计与分析
+Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 
 ### Visual Positioning
 2018
@@ -19,7 +19,7 @@ Visual Positioning &amp; Spatial Cognition 论文统计与分析
 - Learning to Localize Sound Source in Visual Scenes [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Senocak_Learning_to_Localize_CVPR_2018_paper.pdf)]
     -  Arda Senocak, Tae-Hyun Oh, Junsik Kim, Ming-Hsuan Yang, In So Kweon, CVPR, 2018
 - InLoc: Indoor Visual Localization with Dense Matching and View Synthesis [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2096.pdf)]
-    -  Hajime Taira, Masatoshi Okutomi, Torsten Sattler, Mircea Cimpoi, Marc Pollefeys, Josef Sivic, Tomas Pajdla, Akihiko Torii, CVPR, 2018
+    -  Hajime Taira, Masatoshi Okutomi, Torsten Sattler, Mircea Cimpoi, Marc Pollefeys, Josef Sivic, Tomas Pajdla, Akihiko Torii, CVPR, 
 - Improving Landmark Localization with Semi-Supervised Learning [[Paper](https://arxiv.org/abs/1709.01591)]
     -  Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz, CVPR, 2018
 - Finding beans in burgers: Deep semantic-visual embedding with localization [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3272.pdf)]
@@ -48,8 +48,12 @@ Visual Positioning &amp; Spatial Cognition 论文统计与分析
     -  Shubham Tulsiani, Saurabh Gupta, David Fouhey, Alexei A. Efros, Jitendra Malik, CVPR, 2018
 - Real-Time Seamless Single Shot 6D Object Pose Prediction [[Paper](https://arxiv.org/abs/1711.08848)]
     -  Bugra Tekin, Sudipta N. Sinha, Pascal Fua, CVPR, 2018
-
-
+- Long-term Visual Localization using Semantically Segmented Images [[Paper](https://arxiv.org/abs/1801.05269)]
+    -  Erik Stenborg, Carl Toft, Lars Hammarstrand, ICRA, 2018
+- Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1709.08810)]
+    -  Yasir Latif, Ravi Garg, Michael Milford, Ian Reid, ICRA, 2018
+- Geometric Correspondence Network for Camera Motion Estimation [[Paper](https://ieeexplore.ieee.org/abstract/document/8260906/)]
+    -  Jiexiong Tang, John Folkesson, Patric Jensfelt,  ICRA, 2018
 
 
 2017
@@ -86,3 +90,188 @@ Visual Positioning &amp; Spatial Cognition 论文统计与分析
     -  Siyuan Qi, Yixin Zhu, Siyuan Huang, Chenfanfu Jiang, Song-Chun Zhu, CVPR, 2018
 - Super-FAN: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with GANs [[Paper](https://arxiv.org/abs/1712.02765v2)]
     -  Adrian Bulat, Georgios Tzimiropoulos, CVPR, 2018
+
+
+
+### SLAM
+2018
+- CodeSLAM：Learning a Compact, Optimisable Representation for Dense Visual SLAM [[Paper](https://arxiv.org/pdf/1804.00874)]
+    -  Michael Bloesch, Jan Czarnowski, Ronald Clark, Stefan Leutenegger, Andrew J. Davison, arXiv2018
+- Deep Ordinal Regression Network for Monocular Depth Esitimation [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3454.pdf)]
+    -  Huan Fu, Mingming Gong, Chaohui Wang, Kayhan Batmanghelich, Dacheng Tao, CVPR, 2018
+- LiDAR-Video Driving Dataset: Learning Driving Policies Effectively [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1645.pdf)]
+    -  Yiping Chen, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, and Cheng Wang, CVPR, 2018
+- MegaDepth: Learning Single-View Depth Prediction from Internet Photos [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0109.pdf)]
+    -  Zhengqi Li，Noah Snavely, CVPR, 2018
+- Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mahjourian_Unsupervised_Learning_of_CVPR_2018_paper.pdf)]
+    -  Reza Mahjourian,Martin Wicke,Anelia Angelova, CVPR, 2018
+
+2017
+- Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)]
+    -  Zhongdao Wang, Luming Tang, Xihui Liu, Zhuliang Yao, etc. ICCV, 2017
+- Robust Navigation In GNSS Degraded Environment Using Graph Optimization [[Paper](https://www.researchgate.net/publication/320084321_Robust_Navigation_in_GNSS_Degraded_Environment_Using_Graph_Optimization)]
+    -  Ryan M. Watson, Jason N. GrosS, ION GNSS, 2017
+
+### ICRA 2018 SLAM
+- iMag: Accurate and Rapidly Deployable Inertial Magneto-Inductive Localisation [[Paper](http://www.cs.ox.ac.uk/files/9954/Accurate%20and%20Rapidly%20Deployable%20Inertial%20Magneto-Inductive.pdf)]
+    -  Bo Wei, Niki Trigoni, Andrew Markham, ICRA, 2018
+- ProSLAM: Graph SLAM from a Programmer’s Perspective [[Paper](https://arxiv.org/abs/1709.04377)]
+    -  Dominik Schlegel, Mirco Colosi, Giorgio Grisetti, ICRA, 2018
+- Constructing Category-Specific Models for Monocular Object-SLAM [[Paper](https://arxiv.org/abs/1802.09292)]
+    -  Parv Parkhiya, Rishabh Khawad, J. Krishna Murthy, Brojeshwar Bhowmick, K. Madhava Krishna, ICRA, 2018
+- A Monocular SLAM System Leveraging Structural Regularity in Manhattan World [[Paper]()]
+    -  Haoang Li, Jian Yao, Jean-Charles Bazin, Xiaohu Lu, Yazhou Xing, Kang Liu, ICRA, 2018
+- Complementary Perception for Handheld SLAM [[Paper](https://ieeexplore.ieee.org/abstract/document/8263549/)]
+    -  Thomas Lowe, Soohwan Kim, Mark Cox, ICRA, 2018  
+- MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing [[Paper](https://arxiv.org/abs/1803.02009)]
+    -  Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang, Gamini Dissanayake,  ICRA, 2018
+- ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo,and RGB-D Cameras [[Paper](https://ieeexplore.ieee.org/abstract/document/7946260/)]
+    -  Raúl Mur-Artal, Juan D. Tardós,   ICRA, 2018
+- Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios [[Paper]()]
+    -  Y
+- The Multi Vehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception [[Paper]()]
+    -  Y
+### VO/VIO
+2018
+- Detection and Resolution of Motion Conflict in Visual Inertial Odometry [[Paper]()]
+    -  Y
+- Direct Sparse Visual-Inertial Odometry using Dynamic Marginalization [[Paper]()]
+    -  Y
+- Direct Line Guidance Odometry [[Paper]()]
+    -  Y
+- PIRVS: An Advanced Visual-Inertial SLAM System with Flexible Sensor Fusion and Hardware Co-Design [[Paper]()]
+    -  Y
+- Dense Planar-Inertial SLAM with Structural Constraints [[Paper]()]
+    -  Y
+- Low-Drift Visual Odometry in Structured Environments by Decoupling Rotational and Translational Motion [[Paper]()]
+    -  Y
+- Online Initialization and Automatic Camera-IMU Extrinsic Calibration for Monocular Visual-Inertial SLAM [[Paper]()]
+    -  Y
+- Relocalization, Global Optimization and Map Merging for Monocular Visual-Inertial SLAM [[Paper]()]
+    -  Y
+- Towards Globally Consistent Visual-Inertial Collaborative SLAM [[Paper]()]
+    -  Y
+- Visual odometry using a homography formulation with decoupled rotation and translation estimation using minimal solutions [[Paper]()]
+    -  Y
+- Encoderless Gimbal Calibration of Dynamic Multi-Camera Clusters [[Paper]()]
+    -  Y
+- A Benchmark Comparison of Monocular Visual-Inertial Odometry Algorithms for Flying Robots [[Paper]()]
+    -  Y
+- Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight [[Paper]()]
+    -  Y
+- UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning [[Paper]()]
+    -  Y
+
+- Learning-based Image Enhancement for Visual Odometry in Challenging HDR Environments [[Paper]()]
+    -  Y
+- Driven to Distraction: Self-Supervised Distractor Learning for Robust Monocular Visual Odometry in Urban Environments [[Paper]()]
+    -  Y
+- LS-VO: Learning Dense Optical Subspace for Robust Visual Odometry Estimation [[Paper]()]
+    -  Y
+    
+### Semantic SLAM
+- Multi-view 3D Entangled Forest For Semantic Segmentation and Mapping [[Paper]()]
+    -  Y
+- A method to segment maps from different modalities using free space layout MAORIS: map of ripples segmentation [[Paper]()]
+    -  Y
+- Bayesian Scale Estimation for Monocular SLAM Based on Generic Object Detection for Correcting Scale Drift [[Paper]()]
+    -  Y
+- Semantic Mapping with Omnidirectional Vision [[Paper]()]
+    -  Y
+- Localization of Classified Objects in SLAM using Nonparametric Statistics and Clustering [[Paper]()]
+    -  Y
+- N [[Paper]()]
+    -  Y
+- N [[Paper]()]
+    -  Y
+#### Optimazation Methods
+- Complexity Analysis and Efficient Measurement Selection Primitives for High-Rate Graph SLAM [[Paper]()]
+    -  Y
+- AprilSAM: Real-time Smoothing and Mapping [[Paper]()]
+    -  Y
+- Fast Nonlinear Approximation of Pose Graph Node Marginalization [[Paper]()]
+    -  Y
+- A Linear Least Square Initialization Method for 3D Pose Graph Optimization Problem [[Paper]()]
+    -  Y
+- Convex Relaxations for Pose Graph Optimization with Outliers [[Paper]()]
+    -  Y
+- BAFS: Bundle Adjustment with Feature Scale Constraints for Enhanced Estimation Accuracy [[Paper]()]
+    -  Y
+- Robust Incremental SLAM under Constrained Optimization Formulation [[Paper]()]
+    -  Y
+- Graph SLAM sparsification with populated topologies using factor descent Optimization [[Paper]()]
+    -  Y
+
+#### Lidar SLAM
+- Efficient Continuous-time SLAM for 3D Lidar-based Online Mapping [[Paper]()]
+    -  Y
+- Elastic LiDAR Fusion: Dense Map-Centric Continuous-Time SLAM [[Paper]()]
+    -  Y
+- Direct Visual SLAM using Sparse Depth for Camera-LiDAR System [[Paper]()]
+    -  Y
+- IMLS-SLAM: scan-to-model matching based on 3D data [[Paper]()]
+    -  Y
+#### Underwater SLAM
+- Sonar Visual Inertial SLAM of Underwater Structures [[Paper]()]
+    -  Y
+- Feature-based SLAM for Imaging Sonar with Under-constrained Landmarks [[Paper]()]
+    -  Y
+- Pose-graph SLAM using Forward-looking Sonar [[Paper]()]
+    -  Y
+#### Topological Mapping
+- Topomap: Topological Mapping and Navigation Based on Visual SLAM Maps [[Paper]()]
+    -  Y
+- Topological Multi-Robot Belief Space Planning in Unknown Environments [[Paper]()]
+    -  Y
+- Feature-constrained Active Visual SLAM for Mobile Robot Navigation [[Paper]()]
+    -  Y
+#### Data association
+- A General Framework for Flexible Multi-Cue Photometric Point Cloud Registration [[Paper]()]
+    -  Y
+- Pairwise Consistent Measurement Set Maximization for Robust Multi-robot Map Merging [[Paper]()]
+    -  Y
+- Data-Efficient Decentralized Visual SLAM [[Paper]()]
+    -  Y
+- Conditional Compatibility Branch and Bound for Feature Cloud Matching [[Paper]()]
+    -  Y
+- Graph Correspondence-based Point Set Registration [[Paper]()]
+    -  Y
+#### Others
+- Robust Visual Localization for Hopping Rovers on Small Bodies [[Paper]()]
+    -  Y
+- Sparse Gaussian Processes on Matrix Lie Groups: A Unified Framework for Optimizing Continuous-Time Trajectories [[Paper]()]
+    -  Y
+- Selection and Compression of Local Binary Features for Remote Visual SLAM [[Paper]()]
+    -  Y
+- Live Structural Modeling using RGB-D SLAM [[Paper]()]
+    -  Y
+- SLAMBench2: Multi-Objective Head-to-Head Benchmarking for Visual SLAM [[Paper]()]
+    -  Y
+- Feature-constrained Active Visual SLAM for Mobile Robot Navigation [[Paper]()]
+    -  Y
+- StaticFusion: Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments [[Paper]()]
+    -  Y
+- Assigning Visual Words to Places for Loop Closure Detection [[Paper]()]
+    -  Y
+- Aided Inertial Navigation with Geometric Features: Observability Analysis [[Paper]()]
+    -  Y
+- Efficient Active SLAM based on Submap Joining, Graph Topology and Convex Optimization [[Paper]()]
+    -  Y
+- 2D SLAM Correction Prediction in Large Scale Urban Environments [[Paper]()]
+    -  Y
+- AA-ICP: Iterative Closest Point with Anderson Acceleration [[Paper]()]
+    -  Y
+- Talk Resource-Efficiently to Me: Optimal Communication Planning for Distributed Loop Closure Detection [[Paper]()]
+    -  Y
+- Eliminating Scale Drift in Monocular SLAM using Depth from Defocus [[Paper]()]
+    -  Y
+- Stability-Based Scale Estimation for Monocular SLAM [[Paper]()]
+    -  Y
+- Ef cient Octree-Based Volumetric SLAM Supporting Signed-Distance and Occupancy Mapping [[Paper]()]
+    -  Y
+- Incremental Segment-Based Localization in 3D Point Clouds [[Paper]()]
+    -  Y
+- Viewpoint-tolerant Place Recognition combining 2D and 3D information for UAV navigation [[Paper]()]
+    -  Y
+- Omnidirectional Multisensory Perception Fusion for Long-Term Place Recognition [[Paper]()]
+    -  Y
