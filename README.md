@@ -12,7 +12,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/Benchmarking%206DOF%20Outdoor%20Visual%20Localization%20in%20Changing%20Conditions.md)]
     - Torsten Sattler, Will Maddern, Carl Toft, Akihiko Torii, Lars Hammarstrand, Erik Stenborg, Daniel Safari, Masatoshi Okutomi, Marc Pollefeys, Josef Sivic, Fredrik Kahl, Tomas Pajdla, CVPR, 2018
 
-- DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.pdf)]
+- DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/DeLS-3D:%20Deep%20Localization%20and%20Segmentation%20with%20a%203D%20Semantic%20Map.md)]
     -  Peng Wang, Ruigang Yang, Binbin Cao, Wei Xu, Yuanqing Lin, CVPR, 2018
 - PPFNet: Global Context Aware Local Features for Robust 3D Point Matching [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1025.pdf)]
     -  Haowen Deng, Tolga Birdal, Slobodan Ilic, CVPR, 2018
