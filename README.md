@@ -16,8 +16,9 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     -  Peng Wang, Ruigang Yang, Binbin Cao, Wei Xu, Yuanqing Lin, CVPR, 2018
 - PPFNet: Global Context Aware Local Features for Robust 3D Point Matching [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1025.pdf)]
     -  Haowen Deng, Tolga Birdal, Slobodan Ilic, CVPR, 2018
-- Learning to Localize Sound Source in Visual Scenes [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Senocak_Learning_to_Localize_CVPR_2018_paper.pdf)]
+- Learning to Localize Sound Source in Visual Scenes [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Senocak_Learning_to_Localize_CVPR_2018_paper.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/Learning%20to%20Localize%20Sound%20Source%20in%20Visual%20Scenes.md)]
     -  Arda Senocak, Tae-Hyun Oh, Junsik Kim, Ming-Hsuan Yang, In So Kweon, CVPR, 2018
+    -  Keywords: sound source localization; cross-modal supervised network; attention model
 - InLoc: Indoor Visual Localization with Dense Matching and View Synthesis [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2096.pdf)]
     -  Hajime Taira, Masatoshi Okutomi, Torsten Sattler, Mircea Cimpoi, Marc Pollefeys, Josef Sivic, Tomas Pajdla, Akihiko Torii, CVPR, 
 - Improving Landmark Localization with Semi-Supervised Learning [[Paper](https://arxiv.org/abs/1709.01591)]
