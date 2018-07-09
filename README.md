@@ -5,7 +5,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 2018
 - Semantic Visual Localization [[Paper](http://xueshu.baidu.com/s?wd=paperuri%3A%284cc9c10694738ed89cdaa4ffef8bdb87%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1712.05773&ie=utf-8&sc_us=10644666678547600538)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Semantic%20Visual%20Localization.md)]
     - Johannes L. Schonberger, Marc Pollefeys, Andreas Geiger, Torsten Sattler, CVPR, 2018
-- MapNet: Geometry-Aware Learning of Maps for Camera Localization [[Paper](https://arxiv.org/abs/1712.03342)] [[Code](https://github.com/NVlabs/geomapnet)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Geometry-Aware%20Learning%20of%20Maps%20for%20Camera%20Localization.md)] [[Project site](http://research.nvidia.com/publication/2018-06_Geometry-Aware-Learning-of)]
+- MapNet: Geometry-Aware Learning of Maps for Camera Localization [[Paper](https://arxiv.org/abs/1712.03342)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Geometry-Aware%20Learning%20of%20Maps%20for%20Camera%20Localization.md)] [[Project site](http://research.nvidia.com/publication/2018-06_Geometry-Aware-Learning-of)] [[Code](https://github.com/NVlabs/geomapnet)]
     - S Brahmbhatt， J Gu， K Kim， J Hays， J Kautz, CVPR, 2018
 - CVM-Net: Cross-View Matching Network for Image-Based Ground-to-Aerial Geo-Localization [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0809.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/CVM-Net:%20Cross-View%20Matching%20Network%20for%20Image-Based%20Ground-to-Aerial%20Geo-Localization.md)]
     - Sixing Hu, Mengdan Feng, Rang M. H Nguyen, Gim Hee Lee,  CVPR, 2018
@@ -19,8 +19,9 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - Learning to Localize Sound Source in Visual Scenes [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Senocak_Learning_to_Localize_CVPR_2018_paper.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/Learning%20to%20Localize%20Sound%20Source%20in%20Visual%20Scenes.md)]
     -  Arda Senocak, Tae-Hyun Oh, Junsik Kim, Ming-Hsuan Yang, In So Kweon, CVPR, 2018
     -  Keywords: sound source localization; cross-modal supervised network; attention model
-- InLoc: Indoor Visual Localization with Dense Matching and View Synthesis [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2096.pdf)]
-    -  Hajime Taira, Masatoshi Okutomi, Torsten Sattler, Mircea Cimpoi, Marc Pollefeys, Josef Sivic, Tomas Pajdla, Akihiko Torii, CVPR, 
+- InLoc: Indoor Visual Localization with Dense Matching and View Synthesis [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2096.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/InLoc:%20Indoor%20Visual%20Localization%20with%20Dense%20Matching%20and%20View%20Synthesis.md)] [[Project site](http://www.ok.sc.e.titech.ac.jp/INLOC/)] [[Code](https://github.com/HajimeTaira/InLoc_demo)]
+    -  Hajime Taira, Masatoshi Okutomi, Torsten Sattler, Mircea Cimpoi, Marc Pollefeys, Josef Sivic, Tomas Pajdla, Akihiko Torii, CVPR, 2018 
+    -  Keywords: pose verification with view synthesis; image retrieval based localization; coarse-to-fine manner; dense matching
 - Improving Landmark Localization with Semi-Supervised Learning [[Paper](https://arxiv.org/abs/1709.01591)]
     -  Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz, CVPR, 2018
 - Finding beans in burgers: Deep semantic-visual embedding with localization [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3272.pdf)]
