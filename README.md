@@ -24,7 +24,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     -  Keywords: pose verification with view synthesis; image retrieval based localization; coarse-to-fine manner; dense matching
 - Improving Landmark Localization with Semi-Supervised Learning [[Paper](https://arxiv.org/abs/1709.01591)]
     -  Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz, CVPR, 2018
-- Finding beans in burgers: Deep semantic-visual embedding with localization [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3272.pdf)]
+- Finding beans in burgers: Deep semantic-visual embedding with localization [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3272.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/Finding%20beans%20in%20burgers:%20Deep%20semantic-visual%20embedding%20with%20localization.md)]
     -  Martin Engilberge, Louis Chevallier, Patrick Perez, Matthieu Cord, CVPR, 2018
 - Learning Less is More - 6D Camera Localization via 3D Surface Regression [[Paper](https://arxiv.org/abs/1711.10228)]
     -  Eric Brachmann, Carsten Rother, CVPR, 2018
