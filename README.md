@@ -44,6 +44,10 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     -  Shubham Tulsiani, Saurabh Gupta, David Fouhey, Alexei A. Efros, Jitendra Malik, CVPR, 2018
 - Real-Time Seamless Single Shot 6D Object Pose Prediction [[Paper](https://arxiv.org/abs/1711.08848)]
     -  Bugra Tekin, Sudipta N. Sinha, Pascal Fua, CVPR, 2018
+- Semantic Match Consistency for Long-Term Visual Localization [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)]
+    - Carl Toft, Erik Stenborg, Lars Hammarstrand, Lucas Brynte, Marc Pollefeys, Torsten Sattler, Fredrik Kahl, ECCV, 2018
+- CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Paul_Hongsuck_Seo_Enhancing_Image_Geolocalization_ECCV_2018_paper.pdf)]
+    - Paul Hongsuck Seo, Tobias Weyand, Jack Sim, and Bohyung Han, ECCV, 2018
 - Long-term Visual Localization using Semantically Segmented Images [[Paper](https://arxiv.org/abs/1801.05269)]
     -  Erik Stenborg, Carl Toft, Lars Hammarstrand, ICRA, 2018
 
@@ -67,8 +71,14 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 
 
 
-### SLAM
+### SLAM/VO
 2018
+- Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM⋆ [[Paoer](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yipu_Zhao_Good_Line_Cutting_ECCV_2018_paper.pdf)]
+    -  Yipu Zhao, Patricio A. Vela, ECCV, 2018
+- Modeling Varying Camera-IMU Time Offset in Optimization-Based Visual-Inertial Odometry [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yonggen_Ling_Modeling_Varying_Camera-IMU_ECCV_2018_paper.pdf)]
+    -  Yonggen Ling, Linchao Bao, Zequn Jie, Fengming Zhu, Ziyang Li,Shanmin Tang, Yongsheng Liu, Wei Liu, and Tong Zhang, ECCV, 2018
+- Scale-Awareness of Light Field Camera basedVisual Odometry [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Niclas_Zeller_Scale-Awareness_of_Light_ECCV_2018_paper.pdf)]
+    - Niclas Zeller, Franz Quint, Uwe Stilla, ECCV, 2018
 - CodeSLAM：Learning a Compact, Optimisable Representation for Dense Visual SLAM [[Paper](https://arxiv.org/pdf/1804.00874)]
     -  Michael Bloesch, Jan Czarnowski, Ronald Clark, Stefan Leutenegger, Andrew J. Davison, arXiv2018
 - Deep Ordinal Regression Network for Monocular Depth Esitimation [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3454.pdf)]
@@ -86,6 +96,17 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - Robust Navigation In GNSS Degraded Environment Using Graph Optimization [[Paper](https://www.researchgate.net/publication/320084321_Robust_Navigation_in_GNSS_Degraded_Environment_Using_Graph_Optimization)]
     -  Ryan M. Watson, Jason N. GrosS, ION GNSS, 2017
 
+### SfM
+- Self-Calibrating Isometric Non-Rigid Structure-from-Motion [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/shaifali_parashar_Self-Calibrating_Isometric__ECCV_2018_paper.pdf)]
+    - Shaifali Parashar, Adrien Bartoli, Daniel Pizarro, ECCV, 2018
+- Improved Structure from Motion Using Fiducial Marker Matching [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Joseph_DeGol_Improved_Structure_from_ECCV_2018_paper.pdf)]
+    - Joseph DeGol, Timothy Bretl, Derek Hoiem, ECCV, 2018
+- Incremental Non-Rigid Structure-from-Motion with Unknown Focal Length [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Thomas_Probst_Incremental_Non-Rigid_Structure-from-Motion_ECCV_2018_paper.pdf)]
+    - Thomas Probst, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool, ECCV, 2018
+- Progressive Structure from Motion [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alex_Locher_Progressive_Structure_from_ECCV_2018_paper.pdf)]
+    - Alex Locher, Michal Havlena, Luc Van Gool, ECCV, 2018
+-   Structure-from-Motion-Aware PatchMatch for Adaptive Optical Flow Estimation [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Maurer_Structure-from-Motion-Aware_PatchMatch_for_ECCV_2018_paper.pdf)]
+    - Daniel Maurer1, Nico Marniok, Bastian Goldluecke, Andr´es Bruhn, ECCV, 2018
 ### ICRA 2018 SLAM
 
 - iMag: Accurate and Rapidly Deployable Inertial Magneto-Inductive Localisation [[Paper](http://www.cs.ox.ac.uk/files/9954/Accurate%20and%20Rapidly%20Deployable%20Inertial%20Magneto-Inductive.pdf)]
