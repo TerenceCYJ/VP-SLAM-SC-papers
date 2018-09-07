@@ -1,6 +1,7 @@
 # CV papers
 Not about Positioning/VO/SLAM, but may inspire out work.
-
+- Toward Scale-Invariance and Position-Sensitive Region Proposal Networks [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hsueh-Fu_Lu_Toward_Scale-Invariance_and_ECCV_2018_paper.pdf)]
+    - Hsueh-Fu Lu, Xiaofei Du, Ping-Lin Chang, ECCV, 2018
 - PPFNet: Global Context Aware Local Features for Robust 3D Point Matching [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1025.pdf)]
     -  Haowen Deng, Tolga Birdal, Slobodan Ilic, CVPR, 2018
     
@@ -18,7 +19,8 @@ Not about Positioning/VO/SLAM, but may inspire out work.
     
 - Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1709.08810)]
     -  Yasir Latif, Ravi Garg, Michael Milford, Ian Reid, ICRA, 2018
-    
+- ArticulatedFusion: Real-time Reconstruction of Motion, Geometry and Segmentation Using a Single Depth Camera [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chao_Li_ArticulatedFusion_Real-time_Reconstruction_ECCV_2018_paper.pdf)]
+    - Chao Li, Zheheng Zhao, Xiaohu Guo, ECCV, 2018    
 
 ### Image Retrieval
 2016
