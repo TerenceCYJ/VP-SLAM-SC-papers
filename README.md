@@ -49,10 +49,15 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Paul_Hongsuck_Seo_Enhancing_Image_Geolocalization_ECCV_2018_paper.pdf)]
     - Paul Hongsuck Seo, Tobias Weyand, Jack Sim, and Bohyung Han, ECCV, 2018
 - Long-term Visual Localization using Semantically Segmented Images [[Paper](https://arxiv.org/abs/1801.05269)]
-    -  Erik Stenborg, Carl Toft, Lars Hammarstrand, ICRA, 2018
+    - Erik Stenborg, Carl Toft, Lars Hammarstrand, ICRA, 2018
 
 - Geometric Correspondence Network for Camera Motion Estimation [[Paper](https://ieeexplore.ieee.org/abstract/document/8260906/)]
-    -  Jiexiong Tang, John Folkesson, Patric Jensfelt,  ICRA, 2018
+    - Jiexiong Tang, John Folkesson, Patric Jensfelt,  ICRA, 2018
+- Scene Coordinate Regression with Angle-Based Reprojection Loss for Camera Relocalization [[Paper](https://arxiv.org/pdf/1808.04999.pdf)]
+    - Xiaotian Li, Juha Ylioinas, Jakob Verbeek, Juho Kannala, ECCV workshop, 2018
+- Hybrid scene Compression for Visual Localization [[Paper](https://arxiv.org/pdf/1807.07512.pdf)]
+    - Federico Camposeco, Andrea Cohen, Marc Pollefeys, Torsten Sattler, arxiv2018
+
 
 
 2017
