@@ -70,6 +70,12 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - Image-based localization using LSTMs for structured feature correlation[[Paper](https://www.researchgate.net/publication/322060007_Image-Based_Localization_Using_LSTMs_for_Structured_Feature_Correlation)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Image-based%20localization%20using%20LSTMs%20for%20structured%20feature%20correlation.md)]
     - F. Walch， C. Hazirbas， L. Leal-Taixé， T. Sattler， S. Hilsenbeck， D. Cremers ，ICCV, 2017
 
+
+- DSAC – Differentiable RANSAC for Camera Localization [[Paper](https://arxiv.org/pdf/1611.05705.pdf)] [[Projct Page](https://hci.iwr.uni-heidelberg.de/vislearn/research/scene-understanding/pose-estimation/#DSAC)]
+    - Eric Brachmann, Alexander Krull, Sebastian Nowozin, Jamie Shotton, Frank Michel, Stefan Gumhold, Carsten Rother, CVPR, 2017
+- Random Forests versus Neural Networks − What’s Best for Camera Localization? [[Paper](https://hci.iwr.uni-heidelberg.de/vislearn/HTML/people/alexander_krull/publications/ICRA_2017.pdf)]
+    - Daniela Massiceti, Alexander Krull, Eric Brachmann, Carsten Rother, Philip H.S. Torr, ICRA, 2017
+
 2015
 - PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization[[Paper](https://www.researchgate.net/publication/277334078_Convolutional_networks_for_real-time_6-DOF_camera_relocalization)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/PoseNet:%20A%20Convolutional%20Network%20for%20Real-Time%206-DOF%20Camera%20Relocalization.md)]
     - Alex Kendall， Matthew Grimes，Roberto Cipolla， University of Cambridge，ICCV, 2015
