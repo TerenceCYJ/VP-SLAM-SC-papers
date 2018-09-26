@@ -57,6 +57,10 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     - Xiaotian Li, Juha Ylioinas, Jakob Verbeek, Juho Kannala, ECCV workshop, 2018
 - Hybrid scene Compression for Visual Localization [[Paper](https://arxiv.org/pdf/1807.07512.pdf)]
     - Federico Camposeco, Andrea Cohen, Marc Pollefeys, Torsten Sattler, arxiv2018
+- Efficient 2D-3D Matching for Multi-Camera Visual Localization [[Paper](https://arxiv.org/abs/1809.06445)]
+    - Marcel Geppert, Peidong Liu, Zhaopeng Cui, Marc Pollefeys, Torsten Sattler, ETH, arxiv2018
+- Deep Camera Pose Regression Using Motion Vectors [[Paper](https://ieeexplore.ieee.org/abstract/document/8451260)]
+    - Fei Guo ; Yifeng He ; Ling Guan, ICIP, 2018
 
 
 
