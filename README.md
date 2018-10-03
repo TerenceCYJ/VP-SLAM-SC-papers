@@ -1,8 +1,67 @@
 # VP-SC-papers
 Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
+## Table of Contents
+ - [arXiv Papers](#arxiv-papers)
+ - [Journal Papers](#journal-papers)
+ - [Conference Papers](#conference-papers)
+   - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [ICRA](#2018-icra), [IROS](#2018-iros), [Others](#2018-others)
+   - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [ICRA](#2017-icra), [IROS](#2017-iros) [Others](#2017-others)
+   - [Before 2016](#before-2016)
+ - [Theses](#theses)
+ - [Datasets](#datasets)
+ - [Workshops](#workshops)
+ - [Challenges](#challenges)
+ - [Other Related Papers](#other-related-papers)
 
-### Visual Positioning
-2018
+## arXiv Papers
+##### Visual Positioning
+- Hybrid scene Compression for Visual Localization [[Paper](https://arxiv.org/pdf/1807.07512.pdf)]
+    - Federico Camposeco, Andrea Cohen, Marc Pollefeys, Torsten Sattler, arxiv2018
+- Efficient 2D-3D Matching for Multi-Camera Visual Localization [[Paper](https://arxiv.org/abs/1809.06445)]
+    - Marcel Geppert, Peidong Liu, Zhaopeng Cui, Marc Pollefeys, Torsten Sattler, ETH, arxiv2018
+- RPNet: an End-to-End Network for Relative Camera Pose Estimation [[Paper](https://arxiv.org/abs/1809.08402)]
+    - Sovann En, Alexis Lechervy, Frédéric Jurie, arxiv2018
+
+##### SLAM
+- CodeSLAM：Learning a Compact, Optimisable Representation for Dense Visual SLAM [[Paper](https://arxiv.org/pdf/1804.00874)]
+    -  Michael Bloesch, Jan Czarnowski, Ronald Clark, Stefan Leutenegger, Andrew J. Davison, arXiv2018
+
+
+## Journal Papers
+- Robust Navigation In GNSS Degraded Environment Using Graph Optimization [[Paper](https://www.researchgate.net/publication/320084321_Robust_Navigation_in_GNSS_Degraded_Environment_Using_Graph_Optimization)]
+    -  Ryan M. Watson, Jason N. GrosS, ION GNSS, 2017
+
+
+## Conference Papers
+### 2018 ECCV
+##### Visual Positioning
+- Semantic Match Consistency for Long-Term Visual Localization [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)]
+    - Carl Toft, Erik Stenborg, Lars Hammarstrand, Lucas Brynte, Marc Pollefeys, Torsten Sattler, Fredrik Kahl, ECCV, 2018
+- CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Paul_Hongsuck_Seo_Enhancing_Image_Geolocalization_ECCV_2018_paper.pdf)]
+    - Paul Hongsuck Seo, Tobias Weyand, Jack Sim, and Bohyung Han, ECCV, 2018
+- Scene Coordinate Regression with Angle-Based Reprojection Loss for Camera Relocalization [[Paper](https://arxiv.org/pdf/1808.04999.pdf)]
+    - Xiaotian Li, Juha Ylioinas, Jakob Verbeek, Juho Kannala, ECCV workshop, 2018
+##### SLAM/VO
+- Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM⋆ [[Paoer](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yipu_Zhao_Good_Line_Cutting_ECCV_2018_paper.pdf)]
+    -  Yipu Zhao, Patricio A. Vela, ECCV, 2018
+- Modeling Varying Camera-IMU Time Offset in Optimization-Based Visual-Inertial Odometry [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yonggen_Ling_Modeling_Varying_Camera-IMU_ECCV_2018_paper.pdf)]
+    -  Yonggen Ling, Linchao Bao, Zequn Jie, Fengming Zhu, Ziyang Li,Shanmin Tang, Yongsheng Liu, Wei Liu, and Tong Zhang, ECCV, 2018
+- Scale-Awareness of Light Field Camera basedVisual Odometry [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Niclas_Zeller_Scale-Awareness_of_Light_ECCV_2018_paper.pdf)]
+    - Niclas Zeller, Franz Quint, Uwe Stilla, ECCV, 2018
+##### SfM
+- Self-Calibrating Isometric Non-Rigid Structure-from-Motion [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/shaifali_parashar_Self-Calibrating_Isometric__ECCV_2018_paper.pdf)]
+    - Shaifali Parashar, Adrien Bartoli, Daniel Pizarro, ECCV, 2018
+- Improved Structure from Motion Using Fiducial Marker Matching [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Joseph_DeGol_Improved_Structure_from_ECCV_2018_paper.pdf)]
+    - Joseph DeGol, Timothy Bretl, Derek Hoiem, ECCV, 2018
+- Incremental Non-Rigid Structure-from-Motion with Unknown Focal Length [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Thomas_Probst_Incremental_Non-Rigid_Structure-from-Motion_ECCV_2018_paper.pdf)]
+    - Thomas Probst, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool, ECCV, 2018
+- Progressive Structure from Motion [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alex_Locher_Progressive_Structure_from_ECCV_2018_paper.pdf)]
+    - Alex Locher, Michal Havlena, Luc Van Gool, ECCV, 2018
+-   Structure-from-Motion-Aware PatchMatch for Adaptive Optical Flow Estimation [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Maurer_Structure-from-Motion-Aware_PatchMatch_for_ECCV_2018_paper.pdf)]
+    - Daniel Maurer1, Nico Marniok, Bastian Goldluecke, Andr´es Bruhn, ECCV, 2018
+
+### 2018 CVPR
+##### Visual Positioning
 - Semantic Visual Localization [[Paper](http://xueshu.baidu.com/s?wd=paperuri%3A%284cc9c10694738ed89cdaa4ffef8bdb87%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1712.05773&ie=utf-8&sc_us=10644666678547600538)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Semantic%20Visual%20Localization.md)]
     - Johannes L. Schonberger, Marc Pollefeys, Andreas Geiger, Torsten Sattler, CVPR, 2018
 - MapNet: Geometry-Aware Learning of Maps for Camera Localization [[Paper](https://arxiv.org/abs/1712.03342)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Geometry-Aware%20Learning%20of%20Maps%20for%20Camera%20Localization.md)] [[Project site](http://research.nvidia.com/publication/2018-06_Geometry-Aware-Learning-of)] [[Code](https://github.com/NVlabs/geomapnet)]
@@ -11,7 +70,6 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     - Sixing Hu, Mengdan Feng, Rang M. H Nguyen, Gim Hee Lee,  CVPR, 2018
 - Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/Benchmarking%206DOF%20Outdoor%20Visual%20Localization%20in%20Changing%20Conditions.md)]
     - Torsten Sattler, Will Maddern, Carl Toft, Akihiko Torii, Lars Hammarstrand, Erik Stenborg, Daniel Safari, Masatoshi Okutomi, Marc Pollefeys, Josef Sivic, Fredrik Kahl, Tomas Pajdla, CVPR, 2018
-
 - DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/DeLS-3D:%20Deep%20Localization%20and%20Segmentation%20with%20a%203D%20Semantic%20Map.md)]
     -  Peng Wang, Ruigang Yang, Binbin Cao, Wei Xu, Yuanqing Lin, CVPR, 2018
 - Learning to Localize Sound Source in Visual Scenes [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Senocak_Learning_to_Localize_CVPR_2018_paper.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/Learning%20to%20Localize%20Sound%20Source%20in%20Visual%20Scenes.md)]
@@ -20,18 +78,14 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - InLoc: Indoor Visual Localization with Dense Matching and View Synthesis [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2096.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SLAM-SC-papers/blob/master/reviews/InLoc:%20Indoor%20Visual%20Localization%20with%20Dense%20Matching%20and%20View%20Synthesis.md)] [[Project site](http://www.ok.sc.e.titech.ac.jp/INLOC/)] [[Code](https://github.com/HajimeTaira/InLoc_demo)]
     -  Hajime Taira, Masatoshi Okutomi, Torsten Sattler, Mircea Cimpoi, Marc Pollefeys, Josef Sivic, Tomas Pajdla, Akihiko Torii, CVPR, 2018 
     -  Keywords: pose verification with view synthesis; image retrieval based localization; coarse-to-fine manner; dense matching
-
-
 - Learning Less is More - 6D Camera Localization via 3D Surface Regression [[Paper](https://arxiv.org/abs/1711.10228)]
     -  Eric Brachmann, Carsten Rother, CVPR, 2018
 - Fast Monte-Carlo Localization on Aerial Vehicles using Approximate Continuous Belief Representations [[Paper](https://arxiv.org/abs/1712.05507)]
     -  Aditya Dhawale, Kumar Shaurya Shankar, Nathan Michael, CVPR, 2018
 - GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2819.pdf)]
     -  Zhichao Yin, Jianping Shi, CVPR, 2018
-
 - Camera Pose Estimation with Unknown Principal Point [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2936.pdf)]
     -  Viktor Larsson, Zuzana Kukelova, Yinqiang Zheng, CVPR, 2018
-
 - Five-point Fundamental Matrix Estimation for Uncalibrated Cameras [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0363.pdf)]
     -  Daniel Barath, CVPR, 2018
 - Hybrid Camera Pose Estimation [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2462.pdf)]
@@ -44,58 +98,8 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     -  Shubham Tulsiani, Saurabh Gupta, David Fouhey, Alexei A. Efros, Jitendra Malik, CVPR, 2018
 - Real-Time Seamless Single Shot 6D Object Pose Prediction [[Paper](https://arxiv.org/abs/1711.08848)]
     -  Bugra Tekin, Sudipta N. Sinha, Pascal Fua, CVPR, 2018
-- Semantic Match Consistency for Long-Term Visual Localization [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)]
-    - Carl Toft, Erik Stenborg, Lars Hammarstrand, Lucas Brynte, Marc Pollefeys, Torsten Sattler, Fredrik Kahl, ECCV, 2018
-- CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Paul_Hongsuck_Seo_Enhancing_Image_Geolocalization_ECCV_2018_paper.pdf)]
-    - Paul Hongsuck Seo, Tobias Weyand, Jack Sim, and Bohyung Han, ECCV, 2018
-- Long-term Visual Localization using Semantically Segmented Images [[Paper](https://arxiv.org/abs/1801.05269)]
-    - Erik Stenborg, Carl Toft, Lars Hammarstrand, ICRA, 2018
 
-- Geometric Correspondence Network for Camera Motion Estimation [[Paper](https://ieeexplore.ieee.org/abstract/document/8260906/)]
-    - Jiexiong Tang, John Folkesson, Patric Jensfelt,  ICRA, 2018
-- Scene Coordinate Regression with Angle-Based Reprojection Loss for Camera Relocalization [[Paper](https://arxiv.org/pdf/1808.04999.pdf)]
-    - Xiaotian Li, Juha Ylioinas, Jakob Verbeek, Juho Kannala, ECCV workshop, 2018
-- Hybrid scene Compression for Visual Localization [[Paper](https://arxiv.org/pdf/1807.07512.pdf)]
-    - Federico Camposeco, Andrea Cohen, Marc Pollefeys, Torsten Sattler, arxiv2018
-- Efficient 2D-3D Matching for Multi-Camera Visual Localization [[Paper](https://arxiv.org/abs/1809.06445)]
-    - Marcel Geppert, Peidong Liu, Zhaopeng Cui, Marc Pollefeys, Torsten Sattler, ETH, arxiv2018
-- Deep Camera Pose Regression Using Motion Vectors [[Paper](https://ieeexplore.ieee.org/abstract/document/8451260)]
-    - Fei Guo ; Yifeng He ; Ling Guan, ICIP, 2018
-
-
-
-2017
-- Semantics-aware Visual Localization under Challenging Perceptual Conditions [[Paper](http://pdfs.semanticscholar.org/75da/1f7edbd881b46bb9aea64c5ab467e8081a41.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Semantics-aware%20Visual%20Localization%20under%20Challenging%20Perceptual%20Conditions.md)]
-    - Tayyab Naseer, Gabriel L. Oliveira, Thomas Brox, Wolfram Burgard, ICRA, 2017
-
-- Are Large-Scale 3D Models Really Necessary for Accurate Visual Localization?[[Paper](http://people.inf.ethz.ch/sattlert/publications/Sattler2017CVPR.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Are%20Large-Scale%203D%20Models%20Really%20Necessary%20for%20Accurate%20Visual%20Localization%3F.md)]
-    - Torsten Sattler, Akihiko Torii, Josef Sivic, Marc Pollefeys, Hajime Taira, Masatoshi Okutomi, Tomas Pajdla, CVPR，2017
-
-- Image-based localization using LSTMs for structured feature correlation[[Paper](https://www.researchgate.net/publication/322060007_Image-Based_Localization_Using_LSTMs_for_Structured_Feature_Correlation)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Image-based%20localization%20using%20LSTMs%20for%20structured%20feature%20correlation.md)]
-    - F. Walch， C. Hazirbas， L. Leal-Taixé， T. Sattler， S. Hilsenbeck， D. Cremers ，ICCV, 2017
-
-
-- DSAC – Differentiable RANSAC for Camera Localization [[Paper](https://arxiv.org/pdf/1611.05705.pdf)] [[Projct Page](https://hci.iwr.uni-heidelberg.de/vislearn/research/scene-understanding/pose-estimation/#DSAC)]
-    - Eric Brachmann, Alexander Krull, Sebastian Nowozin, Jamie Shotton, Frank Michel, Stefan Gumhold, Carsten Rother, CVPR, 2017
-- Random Forests versus Neural Networks − What’s Best for Camera Localization? [[Paper](https://hci.iwr.uni-heidelberg.de/vislearn/HTML/people/alexander_krull/publications/ICRA_2017.pdf)]
-    - Daniela Massiceti, Alexander Krull, Eric Brachmann, Carsten Rother, Philip H.S. Torr, ICRA, 2017
-
-2015
-- PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization[[Paper](https://www.researchgate.net/publication/277334078_Convolutional_networks_for_real-time_6-DOF_camera_relocalization)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/PoseNet:%20A%20Convolutional%20Network%20for%20Real-Time%206-DOF%20Camera%20Relocalization.md)]
-    - Alex Kendall， Matthew Grimes，Roberto Cipolla， University of Cambridge，ICCV, 2015
-
-
-
-### SLAM/VO
-2018
-- Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM⋆ [[Paoer](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yipu_Zhao_Good_Line_Cutting_ECCV_2018_paper.pdf)]
-    -  Yipu Zhao, Patricio A. Vela, ECCV, 2018
-- Modeling Varying Camera-IMU Time Offset in Optimization-Based Visual-Inertial Odometry [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yonggen_Ling_Modeling_Varying_Camera-IMU_ECCV_2018_paper.pdf)]
-    -  Yonggen Ling, Linchao Bao, Zequn Jie, Fengming Zhu, Ziyang Li,Shanmin Tang, Yongsheng Liu, Wei Liu, and Tong Zhang, ECCV, 2018
-- Scale-Awareness of Light Field Camera basedVisual Odometry [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Niclas_Zeller_Scale-Awareness_of_Light_ECCV_2018_paper.pdf)]
-    - Niclas Zeller, Franz Quint, Uwe Stilla, ECCV, 2018
-- CodeSLAM：Learning a Compact, Optimisable Representation for Dense Visual SLAM [[Paper](https://arxiv.org/pdf/1804.00874)]
-    -  Michael Bloesch, Jan Czarnowski, Ronald Clark, Stefan Leutenegger, Andrew J. Davison, arXiv2018
+##### SLAM/VO
 - Deep Ordinal Regression Network for Monocular Depth Esitimation [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3454.pdf)]
     -  Huan Fu, Mingming Gong, Chaohui Wang, Kayhan Batmanghelich, Dacheng Tao, CVPR, 2018
 - LiDAR-Video Driving Dataset: Learning Driving Policies Effectively [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1645.pdf)]
@@ -105,25 +109,14 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mahjourian_Unsupervised_Learning_of_CVPR_2018_paper.pdf)]
     -  Reza Mahjourian,Martin Wicke,Anelia Angelova, CVPR, 2018
 
-2017
-- Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)]
-    -  Zhongdao Wang, Luming Tang, Xihui Liu, Zhuliang Yao, etc. ICCV, 2017
-- Robust Navigation In GNSS Degraded Environment Using Graph Optimization [[Paper](https://www.researchgate.net/publication/320084321_Robust_Navigation_in_GNSS_Degraded_Environment_Using_Graph_Optimization)]
-    -  Ryan M. Watson, Jason N. GrosS, ION GNSS, 2017
 
-### SfM
-- Self-Calibrating Isometric Non-Rigid Structure-from-Motion [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/shaifali_parashar_Self-Calibrating_Isometric__ECCV_2018_paper.pdf)]
-    - Shaifali Parashar, Adrien Bartoli, Daniel Pizarro, ECCV, 2018
-- Improved Structure from Motion Using Fiducial Marker Matching [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Joseph_DeGol_Improved_Structure_from_ECCV_2018_paper.pdf)]
-    - Joseph DeGol, Timothy Bretl, Derek Hoiem, ECCV, 2018
-- Incremental Non-Rigid Structure-from-Motion with Unknown Focal Length [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Thomas_Probst_Incremental_Non-Rigid_Structure-from-Motion_ECCV_2018_paper.pdf)]
-    - Thomas Probst, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool, ECCV, 2018
-- Progressive Structure from Motion [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alex_Locher_Progressive_Structure_from_ECCV_2018_paper.pdf)]
-    - Alex Locher, Michal Havlena, Luc Van Gool, ECCV, 2018
--   Structure-from-Motion-Aware PatchMatch for Adaptive Optical Flow Estimation [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Maurer_Structure-from-Motion-Aware_PatchMatch_for_ECCV_2018_paper.pdf)]
-    - Daniel Maurer1, Nico Marniok, Bastian Goldluecke, Andr´es Bruhn, ECCV, 2018
-### ICRA 2018 SLAM
-
+### 2018 ICRA
+##### Visual Positioning
+- Long-term Visual Localization using Semantically Segmented Images [[Paper](https://arxiv.org/abs/1801.05269)]
+    - Erik Stenborg, Carl Toft, Lars Hammarstrand, ICRA, 2018
+- Geometric Correspondence Network for Camera Motion Estimation [[Paper](https://ieeexplore.ieee.org/abstract/document/8260906/)]
+    - Jiexiong Tang, John Folkesson, Patric Jensfelt,  ICRA, 2018
+##### SLAM
 - iMag: Accurate and Rapidly Deployable Inertial Magneto-Inductive Localisation [[Paper](http://www.cs.ox.ac.uk/files/9954/Accurate%20and%20Rapidly%20Deployable%20Inertial%20Magneto-Inductive.pdf)]
     -  Bo Wei, Niki Trigoni, Andrew Markham, ICRA, 2018
 - ProSLAM: Graph SLAM from a Programmer’s Perspective [[Paper](https://arxiv.org/abs/1709.04377)]
@@ -142,9 +135,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     -  Antoni Rosinol Vidal, Henri Rebecq, Timo Horstschaefer, ICRA, 2018
 - The Multi Vehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8288670)]
     -  Alex Zihao Zhu, Dinesh Thakur, Tolga Ozaslan, Bernd Pfrommer, Vijay Kumar, Kostas Daniilidis, ICRA, 2018
-
-### VO/VIO
-2018
+##### VO
 - Direct Sparse Visual-Inertial Odometry using Dynamic Marginalization [[Paper](https://arxiv.org/abs/1804.05625)]
     -  Lukas von Stumberg, Vladyslav Usenko, Daniel Cremers, ICRA, 2018
 - Direct Line Guidance Odometry [[Paper](http://mftp.mmcheng.net/Papers/18IcraVisualOdometry.pdf)]
@@ -177,8 +168,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     -  Dan Barnes, Will Maddern, Geoffrey Pascoe, Ingmar Posner, ICRA, 2018
 - LS-VO: Learning Dense Optical Subspace for Robust Visual Odometry Estimation [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8283696)]
     -  Gabriele Costante, Thomas Alessandro Ciarfuglia, ICRA, 2018
-    
-### Semantic SLAM
+##### Semantic SLAM
 - Multi-view 3D Entangled Forest For Semantic Segmentation and Mapping [[Paper]()]
 
 - A method to segment maps from different modalities using free space layout MAORIS: map of ripples segmentation [[Paper](https://arxiv.org/abs/1709.09899)]
@@ -190,7 +180,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - Localization of Classified Objects in SLAM using Nonparametric Statistics and Clustering [[Paper]()]
 
 
-#### Optimazation Methods
+##### Optimazation Methods
 - Complexity Analysis and Efficient Measurement Selection Primitives for High-Rate Graph SLAM [[Paper](https://arxiv.org/abs/1709.06821)]
     -  Kristoffer M. Frey, Ted J. Steiner, Jonathan P. How, ICRA, 2018
 - AprilSAM: Real-time Smoothing and Mapping [[Paper](https://april.eecs.umich.edu/media/pdfs/wang2018aprilsam.pdf)]
@@ -208,7 +198,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - Graph SLAM sparsification with populated topologies using factor descent Optimization [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8269322)]
     -  Joan Vallve´, Joan Sola, Juan Andrade-Cetto, ICRA, 2018
 
-#### Lidar SLAM
+##### Lidar SLAM
 - Efficient Continuous-time SLAM for 3D Lidar-based Online Mapping [[Paper](https://www.researchgate.net/publication/323812540_Efficient_Continuous-time_SLAM_for_3D_Lidar-based_Online_Mapping)]
     -  David Droeschel, Sven Behnke, ICRA, 2018
 - Elastic LiDAR Fusion: Dense Map-Centric Continuous-Time SLAM [[Paper](https://arxiv.org/abs/1711.01691)]
@@ -217,21 +207,21 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     -  Young-Sik Shin, Yeong Sang Park, Ayoung Kim, ICRA, 2018
 - IMLS-SLAM: scan-to-model matching based on 3D data [[Paper](https://arxiv.org/abs/1802.08633)]
     -  Jean-Emmanuel Deschaud, ICRA, 2018
-#### Underwater SLAM
+##### Underwater SLAM
 - Sonar Visual Inertial SLAM of Underwater Structures [[Paper]()]
 
 - Feature-based SLAM for Imaging Sonar with Under-constrained Landmarks [[Paper]()]
     -  Eric Westman, Akshay Hinduja, Michael Kaess, ICRA, 2018
 - Pose-graph SLAM using Forward-looking Sonar [[Paper](https://ieeexplore.ieee.org/abstract/document/8302516/)]
     -  Jie Li, Michael Kaess, Ryan M. Eustice, Matthew Johnson-Roberson, ICRA, 2018
-#### Topological Mapping
+##### Topological Mapping
 - Topomap: Topological Mapping and Navigation Based on Visual SLAM Maps [[Paper](https://arxiv.org/abs/1709.05533)]
     -  Fabian Blöchliger, Marius Fehr, Marcin Dymczyk, Thomas Schneider, Roland Siegwart, ICRA, 2018
 - Topological Multi-Robot Belief Space Planning in Unknown Environments [[Paper](https://www.researchgate.net/publication/324861079_Topological_Multi-Robot_Belief_Space_Planning_in_Unknown_Environments)]
     -  Andrej KitanovVadim, IndelmanVadim Indelman, ICRA, 2018
 - Feature-constrained Active Visual SLAM for Mobile Robot Navigation [[Paper]()]
 
-#### Data association
+##### Data association
 - A General Framework for Flexible Multi-Cue Photometric Point Cloud Registration [[Paper](https://arxiv.org/abs/1709.05945)]
     -  Bartolomeo Della Corte, Igor Bogoslavskyi, Cyrill Stachniss, Giorgio Grisetti, ICRA, 2018
 - Pairwise Consistent Measurement Set Maximization for Robust Multi-robot Map Merging [[Paper]()]
@@ -239,45 +229,70 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 - Data-Efficient Decentralized Visual SLAM [[Paper](https://arxiv.org/abs/1710.05772)]
     -  Titus Cieslewski, Siddharth Choudhary, Davide Scaramuzza, ICRA, 2018
 - Conditional Compatibility Branch and Bound for Feature Cloud Matching [[Paper]()]
-
+##### Others
 - Graph Correspondence-based Point Set Registration [[Paper]()]
-
-#### Others
-- Robust Visual Localization for Hopping Rovers on Small Bodies [[Paper]()]
-
-- Sparse Gaussian Processes on Matrix Lie Groups: A Unified Framework for Optimizing Continuous-Time Trajectories [[Paper](https://www.cc.gatech.edu/~jdong37/files/Dong18icra.pdf)]
-    -  Jing Dong, Mustafa Mukadam, Byron Boots, Frank Dellaert, ICRA, 2018
-- Selection and Compression of Local Binary Features for Remote Visual SLAM [[Paper]()]
-
+- Selection and Compression of Local Binary Features for Remote Visual SLAM [[Paper](http://zeus3.lkn.ei.tum.de/forschung/publikationen/dateien/Van%20Opdenbosch2018SelectionandCompressionof.pdf)]
+    - Dominik Van Opdenbosch, Martin Oelsch, Adrian Garcea, Tamay Aykut, Eckehard Steinbach, ICRA, 2018
 - Live Structural Modeling using RGB-D SLAM [[Paper]()]
-
-- SLAMBench2: Multi-Objective Head-to-Head Benchmarking for Visual SLAM [[Paper]()]
-
-- Feature-constrained Active Visual SLAM for Mobile Robot Navigation [[Paper]()]
-
+- SLAMBench2: Multi-Objective Head-to-Head Benchmarking for Visual SLAM [[Paper](https://ieeexplore.ieee.org/abstract/document/8460558)]
+- Feature-constrained Active Visual SLAM for Mobile Robot Navigation [[Paper](https://ieeexplore.ieee.org/abstract/document/8460721)]
 - StaticFusion: Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments [[Paper]()]
-
 - Assigning Visual Words to Places for Loop Closure Detection [[Paper]()]
-
 - Aided Inertial Navigation with Geometric Features: Observability Analysis [[Paper]()]
-
 - Efficient Active SLAM based on Submap Joining, Graph Topology and Convex Optimization [[Paper]()]
-
 - 2D SLAM Correction Prediction in Large Scale Urban Environments [[Paper]()]
-
 - AA-ICP: Iterative Closest Point with Anderson Acceleration [[Paper]()]
-
 - Talk Resource-Efficiently to Me: Optimal Communication Planning for Distributed Loop Closure Detection [[Paper]()]
-
 - Eliminating Scale Drift in Monocular SLAM using Depth from Defocus [[Paper]()]
-
 - Stability-Based Scale Estimation for Monocular SLAM [[Paper]()]
-
 - Ef cient Octree-Based Volumetric SLAM Supporting Signed-Distance and Occupancy Mapping [[Paper]()]
-
 - Incremental Segment-Based Localization in 3D Point Clouds [[Paper]()]
-
 - Viewpoint-tolerant Place Recognition combining 2D and 3D information for UAV navigation [[Paper]()]
-
 - Omnidirectional Multisensory Perception Fusion for Long-Term Place Recognition [[Paper]()]
+### 2018 IROS
+
+### 2018 Others
+- Deep Camera Pose Regression Using Motion Vectors [[Paper](https://ieeexplore.ieee.org/abstract/document/8451260)]
+    - Fei Guo ; Yifeng He ; Ling Guan, ICIP, 2018
+
+
+
+### 2017 ICCV
+##### Visual Positioning
+- Image-based localization using LSTMs for structured feature correlation[[Paper](https://www.researchgate.net/publication/322060007_Image-Based_Localization_Using_LSTMs_for_Structured_Feature_Correlation)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Image-based%20localization%20using%20LSTMs%20for%20structured%20feature%20correlation.md)]
+    - F. Walch， C. Hazirbas， L. Leal-Taixé， T. Sattler， S. Hilsenbeck， D. Cremers ，ICCV, 2017
+##### Related
+- Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)]
+    -  Zhongdao Wang, Luming Tang, Xihui Liu, Zhuliang Yao, etc. ICCV, 2017
+
+
+### 2017 CVPR
+##### Visual Positioning
+- Are Large-Scale 3D Models Really Necessary for Accurate Visual Localization?[[Paper](http://people.inf.ethz.ch/sattlert/publications/Sattler2017CVPR.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Are%20Large-Scale%203D%20Models%20Really%20Necessary%20for%20Accurate%20Visual%20Localization%3F.md)]
+    - Torsten Sattler, Akihiko Torii, Josef Sivic, Marc Pollefeys, Hajime Taira, Masatoshi Okutomi, Tomas Pajdla, CVPR，2017
+- DSAC – Differentiable RANSAC for Camera Localization [[Paper](https://arxiv.org/pdf/1611.05705.pdf)] [[Projct Page](https://hci.iwr.uni-heidelberg.de/vislearn/research/scene-understanding/pose-estimation/#DSAC)]
+    - Eric Brachmann, Alexander Krull, Sebastian Nowozin, Jamie Shotton, Frank Michel, Stefan Gumhold, Carsten Rother, CVPR, 2017
+
+### 2017 ICRA
+##### Visual Positioning
+- Semantics-aware Visual Localization under Challenging Perceptual Conditions [[Paper](http://pdfs.semanticscholar.org/75da/1f7edbd881b46bb9aea64c5ab467e8081a41.pdf)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/Semantics-aware%20Visual%20Localization%20under%20Challenging%20Perceptual%20Conditions.md)]
+    - Tayyab Naseer, Gabriel L. Oliveira, Thomas Brox, Wolfram Burgard, ICRA, 2017
+- Random Forests versus Neural Networks − What’s Best for Camera Localization? [[Paper](https://hci.iwr.uni-heidelberg.de/vislearn/HTML/people/alexander_krull/publications/ICRA_2017.pdf)]
+    - Daniela Massiceti, Alexander Krull, Eric Brachmann, Carsten Rother, Philip H.S. Torr, ICRA, 2017
+
+
+
+### 2017 IROS
+
+### 2017 Others
+
+
+
+### BEFORE 2016
+- PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization[[Paper](https://www.researchgate.net/publication/277334078_Convolutional_networks_for_real-time_6-DOF_camera_relocalization)] [[Review](https://github.com/TerenceCYJ/VP-SC-papers/blob/master/reviews/PoseNet:%20A%20Convolutional%20Network%20for%20Real-Time%206-DOF%20Camera%20Relocalization.md)]
+    - Alex Kendall， Matthew Grimes，Roberto Cipolla， University of Cambridge，ICCV, 2015
+
+
+
+
 
