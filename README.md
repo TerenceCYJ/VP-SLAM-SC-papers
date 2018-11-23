@@ -27,7 +27,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     - Tommaso Cavallari, Stuart Golodetz, Nicholas A. Lord, Julien Valentin, Victor A. Prisacariu, Luigi Di Stefano, Philip H. S. Torr
 - [\[arXiv:1809.09767\]](https://arxiv.org/abs/1809.09767) Night-to-Day Image Translation for Retrieval-based Localization [[Paper](https://arxiv.org/pdf/1809.09767.pdf)]
     - Asha Anoosheh, Torsten Sattler, Radu Timofte, Marc Pollefeys, Luc Van Gool
-- [\[arXiv:1809.08402\]](https://arxiv.org/abs/1809.08402) RPNet: an End-to-End Network for Relative Camera Pose Estimation [[Paper](https://arxiv.org/pdf/1809.08402.pdf)]
+- [\[arXiv:1809.08402\]](https://arxiv.org/abs/1809.08402) RPNet: an End-to-End Network for Relative Camera Pose Estimation [[Paper](https://arxiv.org/pdf/1809.08402.pdf)][[Code](https://github.com/ensv/RPNet)]
     - Sovann En, Alexis Lechervy, Frédéric Jurie
 - [\[arXiv:1809.06445\]](https://arxiv.org/abs/1809.06445) Efficient 2D-3D Matching for Multi-Camera Visual Localization [[Paper](https://arxiv.org/abs/1809.06445)]
     - Marcel Geppert, Peidong Liu, Zhaopeng Cui, Marc Pollefeys, Torsten Sattler, ETH
@@ -110,7 +110,8 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     -  Shubham Tulsiani, Saurabh Gupta, David Fouhey, Alexei A. Efros, Jitendra Malik, CVPR, 2018
 - Real-Time Seamless Single Shot 6D Object Pose Prediction [[Paper](https://arxiv.org/abs/1711.08848)]
     -  Bugra Tekin, Sudipta N. Sinha, Pascal Fua, CVPR, 2018
-
+- Learning to Find Good Correspondences [[Paper](https://arxiv.org/pdf/1711.05971.pdf)]
+    -  Kwang Moo Yi, Eduard Trulls, Yuki Ono, Vincent Lepetit, Mathieu Salzmann, Pascal Fua
 ##### SLAM/VO
 - Deep Ordinal Regression Network for Monocular Depth Esitimation [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3454.pdf)]
     -  Huan Fu, Mingming Gong, Chaohui Wang, Kayhan Batmanghelich, Dacheng Tao, CVPR, 2018
