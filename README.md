@@ -15,12 +15,24 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 
 ## arXiv Papers
 ##### Visual Positioning
-- Hybrid scene Compression for Visual Localization [[Paper](https://arxiv.org/pdf/1807.07512.pdf)]
-    - Federico Camposeco, Andrea Cohen, Marc Pollefeys, Torsten Sattler, arxiv2018
-- Efficient 2D-3D Matching for Multi-Camera Visual Localization [[Paper](https://arxiv.org/abs/1809.06445)]
-    - Marcel Geppert, Peidong Liu, Zhaopeng Cui, Marc Pollefeys, Torsten Sattler, ETH, arxiv2018
-- RPNet: an End-to-End Network for Relative Camera Pose Estimation [[Paper](https://arxiv.org/abs/1809.08402)]
-    - Sovann En, Alexis Lechervy, Frédéric Jurie, arxiv2018
+- [\[arXiv:1811.08414\]](https://arxiv.org/abs/1811.08414) Visual SLAM-based Localization and Navigation for Service Robots: The Pepper Case [[Paper](https://arxiv.org/pdf/1811.08414.pdf)]
+    - CristopherGómez，MatíasMattamala，Tim Resink，Javier Ruiz-del-Solar
+- [\[arXiv:1811.08063\]](https://arxiv.org/abs/1811.08063) Practical Visual Localization for Autonomous Driving: Why Not Filter? [[Paper](https://arxiv.org/pdf/1811.08063.pdf)]
+    - Anh-Dzung Doan, Thanh-Toan Do, Yasir Latif, Tat-Jun Chin, Ian Reid
+- [\[arXiv:1811.02563\]](https://arxiv.org/pdf/1811.02563.pdf) Joint Point Cloud and Image Based Localization For Efficient Inspection in Mixed Reality [[Paper](https://arxiv.org/pdf/1811.02563.pdf)][[Code](https://bitbucket.org/castacks/jpil)]
+    - Manash Pratim Das, Zhen Dong, Sebastian Scherer
+- [\[arXiv:1810.13049\]](https://arxiv.org/abs/1810.13049) Cooperative Holistic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation [[Paper](https://arxiv.org/pdf/1810.13049.pdf)]
+    - Siyuan Huang, Siyuan Qi, Yinxue Xiao, Yixin Zhu, Ying Nian Wu, Song-Chun Zhu
+- [\[arXiv:1810.12163\]](https://arxiv.org/abs/1810.12163) Real-Time RGB-D Camera Pose Estimation in Novel Scenes using a Relocalisation Cascade [[Paper](https://arxiv.org/pdf/1810.12163)]
+    - Tommaso Cavallari, Stuart Golodetz, Nicholas A. Lord, Julien Valentin, Victor A. Prisacariu, Luigi Di Stefano, Philip H. S. Torr
+- [\[arXiv:1809.09767\]](https://arxiv.org/abs/1809.09767) Night-to-Day Image Translation for Retrieval-based Localization [[Paper](https://arxiv.org/pdf/1809.09767.pdf)]
+    - Asha Anoosheh, Torsten Sattler, Radu Timofte, Marc Pollefeys, Luc Van Gool
+- [\[arXiv:1809.08402\]](https://arxiv.org/abs/1809.08402) RPNet: an End-to-End Network for Relative Camera Pose Estimation [[Paper](https://arxiv.org/pdf/1809.08402.pdf)]
+    - Sovann En, Alexis Lechervy, Frédéric Jurie
+- [\[arXiv:1809.06445\]](https://arxiv.org/abs/1809.06445) Efficient 2D-3D Matching for Multi-Camera Visual Localization [[Paper](https://arxiv.org/abs/1809.06445)]
+    - Marcel Geppert, Peidong Liu, Zhaopeng Cui, Marc Pollefeys, Torsten Sattler, ETH
+- [\[arXiv:1807.07512\]](https://arxiv.org/abs/1807.07512) Hybrid scene Compression for Visual Localization [[Paper](https://arxiv.org/pdf/1807.07512.pdf)]
+    - Federico Camposeco, Andrea Cohen, Marc Pollefeys, Torsten Sattler
 
 ##### SLAM
 - CodeSLAM：Learning a Compact, Optimisable Representation for Dense Visual SLAM [[Paper](https://arxiv.org/pdf/1804.00874)]
