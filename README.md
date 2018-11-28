@@ -31,6 +31,9 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     - Sovann En, Alexis Lechervy, Frédéric Jurie
 - [\[arXiv:1809.06445\]](https://arxiv.org/abs/1809.06445) Efficient 2D-3D Matching for Multi-Camera Visual Localization [[Paper](https://arxiv.org/abs/1809.06445)]
     - Marcel Geppert, Peidong Liu, Zhaopeng Cui, Marc Pollefeys, Torsten Sattler, ETH
+- [\[arXiv:1808.08374\]](https://arxiv.org/abs/1808.08374) NavigationNet: A Large-scale Interactive Indoor Navigation Dataset
+ [[Paper](https://arxiv.org/pdf/1808.08374.pdf)] [[Project site](http://mvig.sjtu.edu.cn/research/nav/NavigationNet.html)] [[Dataset](https://sjtueducn-my.sharepoint.com/:f:/g/personal/hjhhh3000_sjtu_edu_cn/EsuIui1nFdBPpz2fzUJoaecB8J8sds33niP2_nVKOnveOw?e=7oATxs)]
+    - He Huang, Yujing Shen, Jiankai Sun, Cewu Lu
 - [\[arXiv:1807.07512\]](https://arxiv.org/abs/1807.07512) Hybrid scene Compression for Visual Localization [[Paper](https://arxiv.org/pdf/1807.07512.pdf)]
     - Federico Camposeco, Andrea Cohen, Marc Pollefeys, Torsten Sattler
 
