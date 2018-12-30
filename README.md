@@ -15,6 +15,17 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 
 ## arXiv Papers
 ##### Visual Positioning
+- [\[arXiv:1812.07869\]](https://arxiv.org/abs/1812.07869) Deep Global-Relative Networks for End-to-End 6-DoF Visual Localization and Odometry [[Paper](https://arxiv.org/pdf/1812.07869.pdf)]
+    - Yimin Lin, Zhaoxiang Liu, Jianfeng Huang, Chaopeng Wang, Guoguang Du, Jinqiang Bai, Shiguo Lian, Bill Huang
+- [\[arXiv:1812.06677\]](https://arxiv.org/abs/1812.06677) Floorplan Priors for Joint Camera Pose and Room Layout Estimation [[Paper](https://arxiv.org/pdf/1812.06677.pdf)]
+    - Cheng Lin, Changjian Li, Yasutaka Furukawa, Wenping Wang
+- [\[arXiv:1812.03707\]](https://arxiv.org/abs/1812.03707) Efficient Condition-based Representations for Long-Term Visual Localization
+ [[Paper](https://arxiv.org/pdf/1812.03707.pdf)]
+    - Hugo Germain, Guillaume Bourmaud, Vincent Lepetit
+- [\[arXiv:1812.03402\]](https://arxiv.org/abs/1812.03402) Semantically-Aware Attentive Neural Embeddings for Image-based Visual Localization [[Paper](https://arxiv.org/pdf/1812.03402.pdf)]
+    - Zachary Seymour, Karan Sikka, Han-Pang Chiu, Supun Samarasekera, Rakesh Kumar
+- [\[arXiv:1812.01232\]](https://arxiv.org/abs/1812.01232) The Alignment of the Spheres: Globally-Optimal Spherical Mixture Alignment for Camera Pose Estimation [[Paper](https://arxiv.org/pdf/1812.01232.pdf)]
+    - Dylan Campbell, Lars Petersson, Laurent Kneip, Hongdong Li, Stephen Gould
 - [\[arXiv:1811.08414\]](https://arxiv.org/abs/1811.08414) Visual SLAM-based Localization and Navigation for Service Robots: The Pepper Case [[Paper](https://arxiv.org/pdf/1811.08414.pdf)]
     - CristopherGómez，MatíasMattamala，Tim Resink，Javier Ruiz-del-Solar
 - [\[arXiv:1811.08063\]](https://arxiv.org/abs/1811.08063) Practical Visual Localization for Autonomous Driving: Why Not Filter? [[Paper](https://arxiv.org/pdf/1811.08063.pdf)]
