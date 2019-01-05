@@ -15,6 +15,8 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 
 ## arXiv Papers
 ##### Visual Positioning
+- [\[arXiv:1812.11209\]](https://arxiv.org/abs/1812.11209) CamLoc: Pedestrian Location Detection from Pose Estimation on Resource-constrained Smart-cameras [[Paper](https://arxiv.org/pdf/1812.11209.pdf)]
+    - Adrian Cosma, Ion Emilian Radoi, Valentin Radu
 - [\[arXiv:1812.07869\]](https://arxiv.org/abs/1812.07869) Deep Global-Relative Networks for End-to-End 6-DoF Visual Localization and Odometry [[Paper](https://arxiv.org/pdf/1812.07869.pdf)]
     - Yimin Lin, Zhaoxiang Liu, Jianfeng Huang, Chaopeng Wang, Guoguang Du, Jinqiang Bai, Shiguo Lian, Bill Huang
 - [\[arXiv:1812.06677\]](https://arxiv.org/abs/1812.06677) Floorplan Priors for Joint Camera Pose and Room Layout Estimation [[Paper](https://arxiv.org/pdf/1812.06677.pdf)]
@@ -56,6 +58,8 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 ## Journal Papers
 - Robust Navigation In GNSS Degraded Environment Using Graph Optimization [[Paper](https://www.researchgate.net/publication/320084321_Robust_Navigation_in_GNSS_Degraded_Environment_Using_Graph_Optimization)]
     -  Ryan M. Watson, Jason N. GrosS, ION GNSS, 2017
+- Indoor Visual Positioning Aided by CNN-Based Image Retrieval: Training-Free, 3D Modeling-Free [[Paper](https://www.mdpi.com/1424-8220/18/8/2692)]
+    -  Yujin Chen, Ruizhi Chen, Mengyun Liu, Aoran Xiao, Dewen Wu, Shuheng Zhao
 
 
 ## Conference Papers
