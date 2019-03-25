@@ -4,7 +4,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
-   - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [ICRA](#2018-icra), [IROS](#2018-iros), [Others](#2018-others)
+   - 2018: [NIPS](#2018-nips), [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [ICRA](#2018-icra), [IROS](#2018-iros), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [ICRA](#2017-icra), [IROS](#2017-iros) [Others](#2017-others)
    - [Before 2016](#before-2016)
  - [Theses](#theses)
@@ -63,6 +63,12 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 
 
 ## Conference Papers
+### 2018 NIPS
+- Bayesian Pose Graph Optimization via Bingham Distributions and Tempered Geodesic MCMC [[Paper](https://papers.nips.cc/paper/7314-bayesian-pose-graph-optimization-via-bingham-distributions-and-tempered-geodesic-mcmc)]
+    - Tolga Birdal, Umut ¸Sim¸sekli, M. Onur Eken, Slobodan Ilic, NIPS, 2018
+- Cooperative Holistic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation [[Paper](https://papers.nips.cc/paper/7305-cooperative-holistic-scene-understanding-unifying-3d-object-layout-and-camera-pose-estimation)]
+    - Siyuan Huang, Siyuan Qi, Yinxue Xiao, Yixin Zhu, Ying Nian Wu, Song-Chun Zhu
+    
 ### 2018 ECCV
 ##### Visual Positioning
 - Semantic Match Consistency for Long-Term Visual Localization [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)]
