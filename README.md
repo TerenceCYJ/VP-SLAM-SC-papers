@@ -4,6 +4,7 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
+   - 2019: [CVPR](#2019-cvpr)
    - 2018: [NIPS](#2018-nips), [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [ICRA](#2018-icra), [IROS](#2018-iros), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [ICRA](#2017-icra), [IROS](#2017-iros) [Others](#2017-others)
    - [Before 2016](#before-2016)
@@ -68,7 +69,10 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
     - Tolga Birdal, Umut ¸Sim¸sekli, M. Onur Eken, Slobodan Ilic, NIPS, 2018
 - Cooperative Holistic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation [[Paper](https://papers.nips.cc/paper/7305-cooperative-holistic-scene-understanding-unifying-3d-object-layout-and-camera-pose-estimation)]
     - Siyuan Huang, Siyuan Qi, Yinxue Xiao, Yixin Zhu, Ying Nian Wu, Song-Chun Zhu
-    
+### 2019 CVPR
+- Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation [[Paper](https://arxiv.org/abs/1811.10092)]
+    - Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang, Lei Zhang, CVPR, 2019
+
 ### 2018 ECCV
 ##### Visual Positioning
 - Semantic Match Consistency for Long-Term Visual Localization [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)]
