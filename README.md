@@ -72,6 +72,8 @@ Visual Positioning &amp;  SLAM &amp; Spatial Cognition 论文统计与分析
 ### 2019 CVPR
 - Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation [[Paper](https://arxiv.org/abs/1811.10092)]
     - Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang, Lei Zhang, CVPR, 2019
+- Understanding the Limitations of CNN-based Absolute Camera Pose Regression [[Paper](https://arxiv.org/pdf/1903.07504.pdf)]
+    - Torsten Sattler, Qunjie Zhou, Marc Pollefeys, Laura Leal-Taixe
 
 ### 2018 ECCV
 ##### Visual Positioning
